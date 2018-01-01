@@ -1,0 +1,65 @@
+/**
+ * index.css
+ * - Add any styles you want here!
+ */
+
+body {
+  background: #f5f5f5;
+}
+
+/* sedgwick-ave-display-regular - latin */
+@font-face {
+  font-family: 'Sedgwick Ave Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/sedgwick-ave-display-v3-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Sedgwick Ave Display Regular'), local('SedgwickAveDisplay-Regular'),
+       url('../fonts/sedgwick-ave-display-v3-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/sedgwick-ave-display-v3-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/sedgwick-ave-display-v3-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/sedgwick-ave-display-v3-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/sedgwick-ave-display-v3-latin-regular.svg#SedgwickAveDisplay') format('svg'); /* Legacy iOS */
+}
+
+h1 {
+	font-family: 'Sedgwick Ave Display';
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+  text-align:center;
+}
+h3 {
+	font-family: Lora;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: 'Sedgwick Ave Display';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+blockquote {
+	font-family: Lora;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Lora;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
