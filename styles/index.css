@@ -3,24 +3,6 @@
  * - Add any styles you want here!
  */
 
-body {
-  background: #f5f5f5;
-}
-
-/* sedgwick-ave-display-regular - latin */
-/* @font-face {
-  font-family: 'Sedgwick Ave Display';
-  font-style: normal;
-  font-weight: 400; */
-  /* src: url('../fonts/sedgwick-ave-display-v3-latin-regular.eot');  IE9 Compat Modes  */
-  /* src: local('Sedgwick Ave Display Regular'), local('SedgwickAveDisplay-Regular'), */
-       /* url('../fonts/sedgwick-ave-display-v3-latin-regular.eot?#iefix') format('embedded-opentype'),  IE6-IE8  */
-       /* url('../fonts/sedgwick-ave-display-v3-latin-regular.woff2') format('woff2'), /* Super Modern Browsers  */
-       /* url('../fonts/sedgwick-ave-display-v3-latin-regular.woff') format('woff'), /* Modern Browsers  */
-       /* url('../fonts/sedgwick-ave-display-v3-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS  */
-       /* url('../fonts/sedgwick-ave-display-v3-latin-regular.svg#SedgwickAveDisplay') format('svg'); /* Legacy iOS  */
-/* } */
-
 h1 {
 	font-family: 'Sedgwick Ave Display';
 	font-size: 40px;
@@ -30,6 +12,7 @@ h1 {
 	line-height: 24.4px;
   text-align:center;
 }
+
 h2 {
 	font-family: 'Sedgwick Ave Display';
 	font-size: 30px;
@@ -38,6 +21,17 @@ h2 {
 	font-weight: 500;
 	line-height: 15.4px;
 }
+
+h6 {
+	font-family: 'Sedgwick Ave Display';
+	font-size: 40px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 24.4px;
+  text-align:left;
+}
+
 p {
 	font-family: Ubuntu;
 	font-size: 14px;
@@ -64,6 +58,7 @@ pre {
 	line-height: 18.5714px;
 }
 
+
 ol,li {
 	font-family: Ubuntu;
 	font-size: 13px;
@@ -72,18 +67,3 @@ ol,li {
 	font-weight: 400;
 	line-height: 18.5714px;
 }
-
-
-/**
-.centerImage
-{
-text-align:center;
-display:block;
-}
-
-.rightImage
-{
-text-align:right;
-display:block;
-}
-*/
