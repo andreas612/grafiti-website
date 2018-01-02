@@ -4,66 +4,66 @@
  */
 
 h1 {
-	font-family: 'Sedgwick Ave Display';
-	font-size: 40px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 24.4px;
-  text-align:center;
+  font-family: 'Sedgwick Ave Display';
+  font-size: 40px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 24.4px;
+  text-align: center;
 }
 
 h2 {
-	font-family: 'Sedgwick Ave Display';
-	font-size: 30px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 15.4px;
+  font-family: 'Sedgwick Ave Display';
+  font-size: 30px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 15.4px;
 }
 
 h6 {
-	font-family: 'Sedgwick Ave Display';
-	font-size: 40px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 24.4px;
-  text-align:left;
+  font-family: 'Sedgwick Ave Display';
+  font-size: 40px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 24.4px;
+  text-align: left;
 }
 
 p {
-	font-family: Ubuntu;
-	font-size: 14px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 20px;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
 }
 
 blockquote {
-	font-family: Lora;
-	font-size: 21px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 30px;
+  font-family: Lora;
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
 }
+
 pre {
-	font-family: Lora;
-	font-size: 13px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 18.5714px;
+  font-family: Lora;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714px;
 }
 
-
-ol,li {
-	font-family: Ubuntu;
-	font-size: 13px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 18.5714px;
+ol, li {
+  font-family: Ubuntu;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714px;
 }
